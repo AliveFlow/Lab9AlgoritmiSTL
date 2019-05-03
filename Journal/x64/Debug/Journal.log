@@ -1,0 +1,3 @@
+﻿  Journal.cpp
+d:\политех\2курс4сем\лабы_проги\progs\lab11mnozhnasledovanie\journal\journal.cpp(173): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Journal.vcxproj -> D:\Политех\2КУРС4СЕМ\ЛАБЫ_ПРОГИ\PROGS\Lab11MnozhNasledovanie\x64\Debug\Journal.exe
